@@ -1,0 +1,7 @@
+Please get to the link: https://cran.r-project.org/bin/windows/base/
+
+Install the version of R as per your operating system.
+
+Click this link for Windows: "Download R 3.4.3 for Windows" 
+
+Similarly, follow the same for other OS if you have any
