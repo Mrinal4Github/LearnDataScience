@@ -1,0 +1,22 @@
+Field                    Description
+
+
+age                      Age in years   
+sex                      1= Male , 2= Female
+gmat_tot                 total GMAT score
+gmat_qpc                 quantitative GMAT percentile
+gmat_vpc                 verbal GMAT percentile
+gmat_tpc                 overall GMAT percentile
+s_avg                    spring MBA average ( on scale -4)
+f_avg                    fall MBA average   ( on scale -4)
+quarter                  quartile ranking ( 1st is top , 4th is bottom )
+work_yrs                 years of work experience
+frstlang                 first language ( 1= English, 2= other)
+salary                   starting salary
+satis                    degree of satisfaction with MBA program ( 1= low, 7= high satisfaction)
+
+
+
+Missing salary and data are coded as follows :
+998   -   did not answer the survey
+999   -   answered the survey but didn't disclose salary data
