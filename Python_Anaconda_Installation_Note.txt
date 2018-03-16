@@ -1,0 +1,20 @@
+Download your version of Python from: https://www.python.org/downloads/
+
+For windows:
+Please download the python version, by clicking the top yellow button  "Download Python 2.7.14" 
+This is regarded as the stable version of Python.
+
+For Mac:
+https://www.python.org/downloads/mac-osx/
+Please install the Latest Python 2 Release - Python 2.7.14
+
+Also, please also download the Anaconda python distribution:
+
+For Windows:
+Get to the download page: https://conda.io/docs/user-guide/install/windows.html
+And download the "Anaconda installer for Windows" and run the .exe
+
+Follow the similar approach for Mac machines:
+https://conda.io/docs/user-guide/install/macos.html
+And download the "Anaconda installer for macOS"
+Double-click the .pkg file for installing the application
